@@ -1,0 +1,10 @@
+This is a sample text file for testing word frequency analysis.
+You can use this text to check if the code accurately counts word occurrences.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed sed justo in massa scelerisque varius vel in odio.
+
+Test test test. This is a test!
+Test, testing, tested.
+
+Word word word. Count the words in this text.

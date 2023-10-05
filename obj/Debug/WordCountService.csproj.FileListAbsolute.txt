@@ -1,0 +1,7 @@
+C:\Users\adeli\Desktop\WordCountService\obj\Debug\WordCountService.csproj.AssemblyReference.cache
+C:\Users\adeli\Desktop\WordCountService\obj\Debug\WordCountService.csproj.CoreCompileInputs.cache
+C:\Users\adeli\Desktop\WordCountService\bin\WordCountService.dll.config
+C:\Users\adeli\Desktop\WordCountService\bin\WordCountService.dll
+C:\Users\adeli\Desktop\WordCountService\bin\WordCountService.pdb
+C:\Users\adeli\Desktop\WordCountService\obj\Debug\WordCountService.dll
+C:\Users\adeli\Desktop\WordCountService\obj\Debug\WordCountService.pdb
